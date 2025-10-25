@@ -7,6 +7,9 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <StackPanel>
+            <Button Content="你好" Width="100" Height="40" Margin="0 20 0 0"></Button>
+        </StackPanel>
 
     </Grid>
 </Window>
